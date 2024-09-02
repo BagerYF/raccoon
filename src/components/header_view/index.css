@@ -1,0 +1,57 @@
+.hearder-view-tip {
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(203, 0, 0);
+  color: #fff;
+}
+.hearder-view-bg {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 100px;
+  background-color: #fff;
+}
+
+.hearder-view-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  font-size: 12px;
+}
+
+.hearder-view-logo {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #212121;
+}
+
+.hearder-view-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+}
+
+.hearder-view-category {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.hearder-view-search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+}
+
+.hearder-view-unselect-item {
+  opacity: 0.3;
+}

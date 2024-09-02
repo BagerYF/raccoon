@@ -1,0 +1,40 @@
+.bgc {
+  margin: 0 100px;
+}
+.e-checkbox {
+  height: 22px;
+  margin-bottom: 8px;
+}
+.p-item-title {
+  width: 100%;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  margin-top: 30px;
+}
+.p-item-subtitle {
+  width: 100%;
+  font-size: 16px;
+  line-height: 22px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+}
+.sort-item {
+  height: 42px;
+  line-height: 42px;
+  text-align: right;
+  padding: 0 10px;
+}
+.sort-item:hover {
+  background-color: #f0f0f0;
+}

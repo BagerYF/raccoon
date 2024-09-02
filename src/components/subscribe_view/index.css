@@ -1,0 +1,32 @@
+.subscribe-view-bgs {
+  margin: 100px 0;
+}
+.subscribe-view-line {
+  background-color: #e0e0e0;
+  height: 1px;
+}
+.subscribe-view-content {
+  display: flex;
+  margin-top: 40px;
+}
+.subscribe-view-content-left {
+  width: 50%;
+}
+.subscribe-view-content-right {
+  width: 50%;
+}
+.subscribe-view-btn {
+  width: 88px;
+  height: 40px;
+  background-color: #212121;
+  color: #fff;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 24px 0;
+}
+.subscribe-view-e-checkbox {
+  height: 22px;
+  margin-bottom: 8px;
+}

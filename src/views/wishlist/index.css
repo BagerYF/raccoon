@@ -1,0 +1,45 @@
+.bgc {
+  margin: 0 100px;
+}
+.delete-bg {
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+  background-color: rgba(0, 0, 0, 0.03);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.p-item-title {
+  width: 100%;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  margin-top: 30px;
+}
+.p-item-subtitle {
+  width: 100%;
+  font-size: 16px;
+  line-height: 22px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+}
+.add-btn {
+  display: flex;
+  height: 40px;
+  border: 1px solid #c5c5c5;
+  font-size: 16px;
+  margin-top: 16px;
+  justify-content: center;
+  align-items: center;
+}

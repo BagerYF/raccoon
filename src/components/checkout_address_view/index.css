@@ -1,0 +1,19 @@
+.bread-title {
+  font-size: 12px;
+  line-height: 16px;
+  color: #bdbdbd;
+}
+.bread-title-active {
+  font-size: 12px;
+  line-height: 16px;
+  color: #212121;
+}
+.checkout-title {
+  font-size: 20px;
+  line-height: 24px;
+  margin: 32px 0;
+}
+.checkout-btn {
+  height: 48px;
+  width: 200px;
+}

@@ -1,0 +1,51 @@
+.input {
+  width: 250px;
+  margin-right: 8px;
+  font-size: 14px;
+}
+.apply-btn {
+  width: 71px;
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #bdbdbd;
+  border-radius: 2px;
+}
+.order-item {
+  display: flex;
+  border-top: 1px solid #eee;
+  padding: 8px 0 12px;
+}
+.order-item-right {
+  margin-left: 12px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  line-height: 20px;
+}
+.summary-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 4px;
+  height: 20px;
+  line-height: 20px;
+}
+.summary-total {
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  font-weight: bold;
+  height: 20px;
+  line-height: 22px;
+}
+.discount {
+  width: 100px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #bdbdbd;
+  margin-top: 10px;
+}

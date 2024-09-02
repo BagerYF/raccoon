@@ -1,0 +1,36 @@
+.bgc {
+  margin: 0 100px;
+}
+.search-head {
+  margin-top: 16px;
+  margin-bottom: 24px;
+  display: flex;
+  line-height: 40px;
+  justify-content: space-between;
+}
+.category {
+  display: flex;
+  padding-top: 16px;
+  padding-bottom: 24px;
+  border-top: 1px solid #eeeeee;
+}
+.category-title {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: bold;
+  width: 270px;
+}
+.sub-category-bg {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+}
+.sub-category {
+  width: 50%;
+  height: 20px;
+  line-height: 20px;
+  margin-bottom: 16px;
+}
+.no-exist {
+  opacity: 0.3;
+}

@@ -1,0 +1,20 @@
+.address-bgc {
+  display: flex;
+  justify-content: center;
+}
+.bgw {
+  width: 100%;
+  max-width: 700px;
+  min-height: 400px;
+  margin-bottom: 100px;
+}
+.address-add-btn {
+  width: 120px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid #bdbdbd;
+  margin-top: 24px;
+  margin-bottom: 100px;
+}

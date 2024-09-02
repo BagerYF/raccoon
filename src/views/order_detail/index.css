@@ -1,0 +1,18 @@
+.order-view-bgc {
+  display: flex;
+  margin: 0 100px;
+  padding-top: 24px;
+}
+.content-item {
+  line-height: 20px;
+  font-weight: bold;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 8px;
+}
+.summary-item {
+  display: flex;
+  justify-content: space-between;
+  line-height: 20px;
+  color: #505050;
+}

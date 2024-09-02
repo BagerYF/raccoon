@@ -1,0 +1,18 @@
+.account-detail-bgc {
+  max-width: 700px;
+  min-height: 400px;
+}
+.sign-out {
+  width: 90px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #212121;
+  color: #fff;
+  margin-top: 35px;
+  margin-bottom: 100px;
+}
+.loading {
+  background-color: red;
+}
